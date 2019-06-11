@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,cACE,YAAa,CACb,4BACF","file":"main.6757973f.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.author-email {\n  display: flex;\n  justify-content: space-around;\n}\n\n"]}
